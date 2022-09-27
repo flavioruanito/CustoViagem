@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         }
 
     }
-
+  /validação/
 
     private fun isValid(): Boolean {
         return (binding.editDistance.text.toString() != ""
